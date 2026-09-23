@@ -9,7 +9,7 @@
     <string name="share_button_start">Börja delning</string>
     <string name="share_state_sharing">Delar</string>
     <string name="share_button_starting">Startar… tryck för att avbryta</string>
-    <string name="share_button_complete">Återuppta delning</string>
+    <string name="share_button_complete">Starta delning igen</string>
     <string name="share_button_stop">Stoppa delning</string>
     <string name="app_name">OnionShare (beta)</string>
     <string name="back">Tillbaka</string>
@@ -21,9 +21,7 @@
     <string name="paste">Klistra in</string>
     <string name="unknown">okänd</string>
     <string name="share_state_transfer_complete">Överföringen slutförd</string>
-    <string name="about_text">OnionShare utvecklades av Micah Lee, et al. och släppt med öppen källkod under GPLv3.
-\n
-\nSom all programvara, kan OnionShare innehålla fel eller sårbarheter.</string>
+    <string name="about_text">OnionShare utvecklades av Micah Lee, et al. och släppt med öppen källkod under GPLv3.\n\nSom all annan programvara kan OnionShare innehålla fel eller sårbarheter.</string>
     <string name="about_title">Om</string>
     <string name="about_app_version">Appversion %s</string>
     <string name="add_files_not_supported">Din enhet stöder inte att lägga till filer</string>
@@ -53,9 +51,9 @@
     <string name="about_contributor_design">%s, produktdesigner</string>
     <string name="about_contributing_orgs">Bidragande organisationer</string>
     <string name="settings_title">Inställningar</string>
-    <string name="settings_tor_title">Ansluta till Tor</string>
+    <string name="settings_tor_title">Anslut till Tor</string>
     <string name="settings_tor_automatic">Automatiskt baserat på plats</string>
-    <string name="settings_tor_intro">En bro är en dedikerad ocensurerad väg till Tor-nätverket. Även om Automatisk är valt kan OnionShare försöka använda broar för att ansluta.</string>
+    <string name="settings_tor_intro">En bro är ett särskilt, ocensurerat sätt att ansluta till Tor-nätverket. Även om Automatisk är valt kan OnionShare försöka använda broar för att ansluta.</string>
     <string name="settings_tor_bridges_title">Anpassade broar</string>
     <string name="settings_tor_bridges_none">Ingen tillagd</string>
     <string name="notification_channel_name_foreground">Fildelningsstatus</string>
@@ -73,7 +71,7 @@
     <string name="notification_sharing_title">OnionShare tillgängligt</string>
     <string name="sharing_notification_title">Delar för närvarande filer</string>
     <string name="notification_error_title">OnionShare stötte på ett problem</string>
-    <string name="share_error_not_allowed">Dela nya filer är bara möjligt när de inte redan delar.</string>
+    <string name="share_error_not_allowed">Du kan bara lägga till nya filer när ingen delning redan pågår</string>
     <string name="about_links_title">Länkar</string>
     <string name="about_links_homepage">Hemsida</string>
     <string name="about_links_github">GitHub</string>
